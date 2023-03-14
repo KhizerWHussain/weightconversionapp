@@ -1,0 +1,76 @@
+*, html {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: #656262;
+}
+.container {
+    border: 1px solid white;
+    width: 42rem;
+    height: 12rem;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(99, 157, 208);
+}
+#heading {
+    font-size: 2rem;
+    font-weight: 600;
+    color:#9f009c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.units {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 2.5rem;
+    padding: 0.75rem;
+    gap: 0.25rem;
+}
+.input-result {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 2.5rem;
+    gap: 0.25rem;
+    padding: 0.75rem;
+}
+.measure {
+    width: 18rem;
+    height: 2.5rem;
+    font-size: 1.25rem;
+    font-weight: 500;
+     outline: none;
+    border: none;
+}
+.mass {
+    width: 17rem;
+    height: 2.5rem;
+    font-size: 1.25rem;
+    font-weight: 500;
+    padding: 0.5rem;
+    outline: none;
+    border: none;
+}
+.result {
+    width: 17rem;
+    height: 2.5rem;
+    font-size: 1.25rem;
+    font-weight: 500;
+    background-color: white;
+    padding: 0.5rem;
+    text-align: center;
+}
