@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weightconversionapp/static/css/main.7bbb48e3.css",
+    "main.js": "/weightconversionapp/static/js/main.1aff1864.js",
+    "index.html": "/weightconversionapp/index.html",
+    "main.7bbb48e3.css.map": "/weightconversionapp/static/css/main.7bbb48e3.css.map",
+    "main.1aff1864.js.map": "/weightconversionapp/static/js/main.1aff1864.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bbb48e3.css",
+    "static/js/main.1aff1864.js"
+  ]
+}
